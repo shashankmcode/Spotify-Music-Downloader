@@ -1,5 +1,0 @@
-pip install --upgrade --force-reinstall "git+https://github.com/ytdl-org/youtube-dl.git"
-pip install youtube-search
-pip install youtube_dl
-pip install bs4
-pip install requests
